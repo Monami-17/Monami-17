@@ -47,7 +47,7 @@ Web-based JavaScript tool to analyze password complexity.
 `Incident Response & Ethical Hacking`
 ## 📫 Let’s Connect
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/monami-mukherjee017)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monami-mukherjee017)
 
 
 
