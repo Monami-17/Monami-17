@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**Monami-17/Monami-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Monami! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Cybersecurity & Digital Forensics Enthusiast
+
+
+
+## 🚀 About Me
+I'm a final-year student passionate about Cybersecurity and Digital Forensics.
+I enjoy exploring how technology can be both protected and improved — from analyzing threats to building secure systems. 
+
+Currently, I’m:
+
+🔍 Working on projects in Cyber Forensics, Malware Analysis, and Password Security
+
+💻 Learning advanced techniques in Network Security and Cloud Forensics
+## 🛠 Tech Stack
+
+Languages: Java, HTML, CSS, JavaScript
+
+Tools & Frameworks:
+
+🧩 OWASP, Burp Suite, Wireshark
+
+⚙️ Apktool, Ghidra, JADX
+
+🌐 Networking, Linux (Kali)
+## 🔒 Cyber Security Projects
+
+🧠 Malware Reverse Engineering — Static Analysis for Threat Detection
+Analyzed Android malware using Apktool and Ghidra to identify malicious code patterns.
+
+🧰 Secure Password Management Demonstration 
+Implemented salting and hashing to simulate secure credential handling.
+
+💡 Password Strength Checker
+Web-based JavaScript tool to analyze password complexity.
+## 🧩 Academic & Research Interests
+
+`Cyber Forensics & Network Security`
+
+`Reverse Engineering`
+
+`AI-driven Threat Detection`
+
+`Incident Response & Ethical Hacking`
+## 📫 Let’s Connect
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/monami-mukherjee017)
+
+
+
